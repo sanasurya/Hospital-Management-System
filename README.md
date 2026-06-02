@@ -14,5 +14,6 @@ A Java-based Hospital Management System developed using Object-Oriented Programm
 - Login System: Secure access to the admin dashboard.
 ## How to Run
 Compile the java files: javac *.java
-Run the main GUI class: java HospitalGUI
-Developed by Surya
+Run the main GUI class: java HospitalGUI 
+
+### Developed by Surya
